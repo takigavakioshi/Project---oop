@@ -1,0 +1,17 @@
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\bin\Debug\курсач v0.2.exe.config
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\bin\Debug\курсач v0.2.exe
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\bin\Debug\курсач v0.2.pdb
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\bin\Debug\ClassLibrary.dll
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\bin\Debug\ClassLibrary.pdb
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач v0.2.csprojResolveAssemblyReference.cache
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач_v0._2.addShop.resources
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач_v0._2.Form1.resources
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач_v0._2.Properties.Resources.resources
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач_v0._2.ShopItems.resources
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач v0.2.csproj.GenerateResource.cache
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач v0.2.csproj.CoreCompileInputs.cache
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач v0.2.csproj.CopyComplete
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач v0.2.exe
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач v0.2.pdb
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач_v0._2.ItemAdd.resources
+C:\Users\takigava\source\repos\курсач v0.2\курсач v0.2\obj\Debug\курсач_v0._2.ShowIT.resources

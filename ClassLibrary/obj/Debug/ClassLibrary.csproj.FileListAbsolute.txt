@@ -1,0 +1,6 @@
+C:\Users\takigava\source\repos\курсач v0.2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\takigava\source\repos\курсач v0.2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\takigava\source\repos\курсач v0.2\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\takigava\source\repos\курсач v0.2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\takigava\source\repos\курсач v0.2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\takigava\source\repos\курсач v0.2\ClassLibrary\obj\Debug\ClassLibrary.pdb
